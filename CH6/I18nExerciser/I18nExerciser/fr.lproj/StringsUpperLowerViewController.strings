@@ -1,0 +1,27 @@
+
+/* Class = "IBUILabel"; text = "lower"; ObjectID = "0gE-Ot-yXU"; */
+"0gE-Ot-yXU.text" = "lower";
+
+/* Class = "IBUILabel"; text = "😲👽🔥🍀⚡️☃☼や㊥𪧦"; ObjectID = "4X3-2g-YFb"; */
+"4X3-2g-YFb.text" = "😲👽🔥🍀⚡️☃☼や㊥𪧦";
+
+/* Class = "IBUILabel"; text = "Capital:  "; ObjectID = "7KL-aA-ag5"; */
+"7KL-aA-ag5.text" = "Capital:  ";
+
+/* Class = "IBUILabel"; text = "Strings"; ObjectID = "Dk3-Ok-Hs9"; */
+"Dk3-Ok-Hs9.text" = "Strings";
+
+/* Class = "IBUILabel"; text = "Higher Value Unicode Characters"; ObjectID = "K2m-ag-wHL"; */
+"K2m-ag-wHL.text" = "Higher Value Unicode Characters";
+
+/* Class = "IBUILabel"; text = "capital"; ObjectID = "W0H-dq-1VL"; */
+"W0H-dq-1VL.text" = "capital";
+
+/* Class = "IBUILabel"; text = "Lowercase:  "; ObjectID = "a4j-zR-GBT"; */
+"a4j-zR-GBT.text" = "FR low:  ";
+
+/* Class = "IBUILabel"; text = "Uppercase:"; ObjectID = "e6P-IU-49t"; */
+"e6P-IU-49t.text" = "FR up:";
+
+/* Class = "IBUILabel"; text = "upper"; ObjectID = "y0j-Lv-zxJ"; */
+"y0j-Lv-zxJ.text" = "upper";

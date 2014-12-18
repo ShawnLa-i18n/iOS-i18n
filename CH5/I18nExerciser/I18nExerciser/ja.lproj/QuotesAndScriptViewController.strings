@@ -1,0 +1,23 @@
+/* Static text for section title */
+"4Lu-iM-OR0.text" = "スクリプト異形";
+
+/* Place holder label.  Value is set via code DO NOT LOCALIZE */
+"8NW-X6-HOo.text" = "variantCode";
+
+/* Sample string of text to demo quotation marks */
+"F9g-YI-MRH.text" = "引用符を見せるための引用された文字列";
+
+/* Static label for locale variants */
+"SsI-gF-TRr.text" = "異形:";
+
+/* Place holder label.  Value is set via code DO NOT LOCALIZE */
+"oII-iT-30m.text" = "scriptCode";
+
+/* Place holder label.  Value is set via code DO NOT LOCALIZE */
+"pPk-UG-tme.text" = "multiLineLabel";
+
+/* Static text for the title of the view controller */
+"pfR-sY-Bk2.text" = "引用文とスクリプト";
+
+/* Static label for locale script */
+"stt-Fy-X4e.text" = "dスクリプト";

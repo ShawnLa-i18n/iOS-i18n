@@ -1,0 +1,39 @@
+
+/* Class = "IBUILabel"; text = "Calendar:"; ObjectID = "3gc-Lt-U2Y"; */
+"3gc-Lt-U2Y.text" = "Calendrier:";
+
+/* Class = "IBUILabel"; text = "Language:"; ObjectID = "6Ud-Gs-Obj"; */
+"6Ud-Gs-Obj.text" = "Langue:";
+
+/* Class = "IBUILabel"; text = "Current System Settings"; ObjectID = "BN8-uM-1rU"; */
+"BN8-uM-1rU.text" = "Parametres courants du systeme";
+
+/* Class = "IBUILabel"; text = "Your I10n Exerciser"; ObjectID = "Fvv-yF-k6c"; */
+"Fvv-yF-k6c.text" = "Votre I18n outil";
+
+/* Class = "IBUIBarButtonItem"; title = "Home"; ObjectID = "Lzm-bV-lyZ"; */
+"Lzm-bV-lyZ.title" = "Site";
+
+/* Class = "IBUILabel"; text = "Date:"; ObjectID = "MBe-Fd-lbK"; */
+"MBe-Fd-lbK.text" = "Date:";
+
+/* Class = "IBUILabel"; text = "currCal"; ObjectID = "Srg-3T-q1Y"; */
+"Srg-3T-q1Y.text" = "currCal";
+
+/* Class = "IBUILabel"; text = "currLoc"; ObjectID = "fiJ-c1-ZID"; */
+"fiJ-c1-ZID.text" = "currLoc";
+
+/* Class = "IBUILabel"; text = "currLang"; ObjectID = "gqN-co-QBb"; */
+"gqN-co-QBb.text" = "currLang";
+
+/* Class = "IBUINavigationItem"; title = "Navigation"; ObjectID = "pda-KE-rL6"; */
+"pda-KE-rL6.title" = "Navigation";
+
+/* Class = "IBUILabel"; text = "currDate"; ObjectID = "r9W-cm-1d7"; */
+"r9W-cm-1d7.text" = "currDate";
+
+/* Class = "IBUILabel"; text = "Locale:"; ObjectID = "sxj-dL-W14"; */
+"sxj-dL-W14.text" = "local:";
+
+/* Class = "IBUIButton"; normalTitle = "More >"; ObjectID = "vij-EV-xfg"; */
+"vij-EV-xfg.normalTitle" = "plus >";

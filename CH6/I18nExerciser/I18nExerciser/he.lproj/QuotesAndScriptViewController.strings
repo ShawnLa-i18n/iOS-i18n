@@ -1,0 +1,24 @@
+
+/* Class = "IBUILabel"; text = "Script and Variant"; ObjectID = "4Lu-iM-OR0"; */
+"4Lu-iM-OR0.text" = "Script and Variant";
+
+/* Class = "IBUILabel"; text = "variantCode"; ObjectID = "8NW-X6-HOo"; */
+"8NW-X6-HOo.text" = "variantCode";
+
+/* Class = "IBUILabel"; text = "Quoted string to demo quotation marks."; ObjectID = "F9g-YI-MRH"; */
+"F9g-YI-MRH.text" = "Quoted string to demo quotation marks.";
+
+/* Class = "IBUILabel"; text = "Variant:"; ObjectID = "SsI-gF-TRr"; */
+"SsI-gF-TRr.text" = "Variant:";
+
+/* Class = "IBUILabel"; text = "scriptCode"; ObjectID = "oII-iT-30m"; */
+"oII-iT-30m.text" = "scriptCode";
+
+/* Class = "IBUILabel"; text = "multiLineLabel"; ObjectID = "pPk-UG-tme"; */
+"pPk-UG-tme.text" = "multiLineLabel";
+
+/* Class = "IBUILabel"; text = "Quotes & Scripts"; ObjectID = "pfR-sY-Bk2"; */
+"pfR-sY-Bk2.text" = "Quotes & Scripts";
+
+/* Class = "IBUILabel"; text = "Script:"; ObjectID = "stt-Fy-X4e"; */
+"stt-Fy-X4e.text" = "Script:";

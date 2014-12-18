@@ -1,0 +1,6 @@
+
+/* Class = "IBUIButton"; normalTitle = "Sort List"; ObjectID = "Kn6-Hl-tY6"; */
+"Kn6-Hl-tY6.normalTitle" = "Triage de liste";
+
+/* Class = "IBUIButton"; normalTitle = "Unsort List"; ObjectID = "Tbc-y9-kn9"; */
+"Tbc-y9-kn9.normalTitle" = "De-triage de liste";
